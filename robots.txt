@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-svucwm.date-me.pro/sitemap.xml
